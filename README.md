@@ -1,4 +1,4 @@
-
+![logo](https://github.com/Amratpal77/Amratpal77/blob/main/banner.png)
 
 <h1 align="center">Hi 👋, I'm Amratpal Singh</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
